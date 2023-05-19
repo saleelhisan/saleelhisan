@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Saleel 👋<br>I'm a MERN stack developer with a passion for creating high-quality web applications using MongoDB, React.js, Node.js, Express.js, and TypeScript. I have a keen eye for detail and am always striving to write clean, maintainable code that solves complex problems.<br>🚀 What I'm working on<br>Right now, I'm working on an exciting social media project that I'm really passionate about. I'm using my skills in the MERN stack to build a scalable and user-friendly platform that will connect people around the world.
+Hi there, I'm Saleel 👋<br>I'm a MERN stack developer with a passion for creating high-quality web applications using MongoDB, React.js, Node.js, Express.js, and TypeScript. I have a keen eye for detail and am always striving to write clean, maintainable code that solves complex problems
 
 
 ## 🌐 Socials:
